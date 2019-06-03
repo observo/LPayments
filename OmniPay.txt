@@ -1458,32 +1458,32 @@ composer show "fruitcake/omnipaymagnius"
 
 composer show "omnipay/manual"
 
-composer show "package-name"
-omnipay/migs
-composer show "package-name"
-larrytech7/omnipaymomocm
-composer show "package-name"
-omnipay/mollie
-composer show "package-name"
-leesiongchan/molpay
-composer show "package-name"
-incube8/omnipaymulticards
-composer show "package-name"
-omnipay/multisafepay
-composer show "package-name"
-xxtime/omnipaymycard
-composer show "package-name"
-sudiptpa/omnipaynabtransact
-composer show "package-name"
-yasinkuyu/omnipaynestpay
-composer show "package-name"
-uskur/omnipaynestpay
-composer show "package-name"
-omnipay/netaxept
-composer show "package-name"
-omnipay/netbanx
-composer show "package-name"
-dercoder/omnipayneteller
+composer show "omnipay/migs"
+
+composer show "larrytech7/omnipaymomocm"
+
+composer show "omnipay/mollie"
+
+composer show "leesiongchan/molpay"
+
+composer show "incube8/omnipaymulticards"
+
+composer show "omnipay/multisafepay"
+
+composer show "xxtime/omnipaymycard"
+
+composer show "sudiptpa/omnipaynabtransact"
+
+composer show "yasinkuyu/omnipaynestpay"
+
+composer show "uskur/omnipaynestpay"
+
+composer show "omnipay/netaxept"
+
+composer show "omnipay/netbanx"
+
+composer show "dercoder/omnipayneteller"
+
 composer show "package-name"
 netpay/omnipaynetpay
 composer show "package-name"
