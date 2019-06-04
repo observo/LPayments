@@ -1484,155 +1484,154 @@ composer show "omnipay/netbanx"
 
 composer show "dercoder/omnipayneteller"
 
-composer show "package-name"
-netpay/omnipaynetpay
-composer show "package-name"
-mfauveau/omnipaynmi
-composer show "package-name"
-nocksapp/omnipaynocks
-composer show "package-name"
-hiqdev/omnipayokpay
-composer show "package-name"
-dilab/omnipayonepay
-composer show "package-name"
-sudiptpa/omnipayopenpay
-composer show "package-name"
-vdbelt/omnipayoppwa
-composer show "package-name"
-paynl/omnipaypaynl
-composer show "package-name"
-dilab/omnipaypayoo
-composer show "package-name"
-mfauveau/omnipaypacnet
-composer show "package-name"
-descubraomundo/omnipaypagarme
-composer show "package-name"
-yasinkuyu/omnipayparatika
-composer show "package-name"
-omnipay/payfast
-composer show "package-name"
-omnipay/payflow
-composer show "package-name"
-omnipay/paymentexpress
-composer show "package-name"
-onlinesid/omnipaypaymentexpressa2a
-composer show "package-name"
-pinguinjkeke/omnipaypaymentgateru
-composer show "package-name"
-digitickets/omnipaypaymentsense
-composer show "package-name"
-incube8/omnipaypaymentwall
-composer show "package-name"
-omnipay/paypal
-composer show "package-name"
-paypronl/omnipaypaypro
-composer show "package-name"
-academe/omnipaypayone
-composer show "package-name"
-dercoder/omnipaypaysafecard
-composer show "package-name"
-povils/omnipaypaysera
-composer show "package-name"
-semyonchetvertnyh/omnipaypaysera
-composer show "package-name"
-dranes/omnipaypaysimple
-composer show "package-name"
-inkedcurtis/omnipaypayssion
-composer show "package-name"
-softcommerce/omnipaypaytrace
-composer show "package-name"
-omnipay/payu
-composer show "package-name"
-ubitransports/omnipaypayzen
-composer show "package-name"
-hiqdev/omnipaypaxum
-composer show "package-name"
-uskur/omnipaypelecard
-composer show "package-name"
-omnipay/pin
-composer show "package-name"
-phoenixg/omnipaypingpp
-composer show "package-name"
-burnbright/omnipaypoli
-composer show "package-name"
-dercoder/omnipayportmanat
-composer show "package-name"
-yasinkuyu/omnipayposnet
-composer show "package-name"
-bummzack/omnipaypostfinance
-composer show "package-name"
-hiqdev/omnipayqiwi
-composer show "package-name"
-kuangjy/omnipayqpay
-composer show "package-name"
-nobrainerweb/omnipayquickpay
-composer show "package-name"
-omnipay/rabobank
-composer show "package-name"
-digitickets/omnipayrealex
-composer show "package-name"
-nazka/sermepaomnipay
-composer show "package-name"
-rentmoola/omnipayrentmoola
-composer show "package-name"
-hiqdev/omnipayrobokassa
-composer show "package-name"
-omnipay/sagepay
-composer show "package-name"
-andrewnovikof/omnipaysberbank
-composer show "package-name"
-justinbusschau/omnipaysecpay
-composer show "package-name"
-omnipay/securepay
-composer show "package-name"
-meebio/omnipaysecuretrading
-composer show "package-name"
-fruitcakestudio/omnipaysisow
-composer show "package-name"
-alfaproject/omnipayskrill
-composer show "package-name"
-aimeoscom/omnipaysofort
-composer show "package-name"
-gregoriohc/omnipayspreedly
-composer show "package-name"
-transportersio/omnipaysquare
-composer show "package-name"
-omnipay/stripe
-composer show "package-name"
-omnipay/targetpay
-composer show "package-name"
-lokielse/omnipayunionpay
-composer show "package-name"
-lemonstand/omnipayvantiv
-composer show "package-name"
-andylibrian/omnipayveritrans
-composer show "package-name"
-vimeo/omnipayvindicia
-composer show "package-name"
-delatbabel/omnipayvivapayments
-composer show "package-name"
-dercoder/omnipaywebmoney
-composer show "package-name"
-labs7in0/omnipaywechat
-composer show "package-name"
-lokielse/omnipaywechatpay
-composer show "package-name"
-collizo4sky/omnipaywepay
-composer show "package-name"
-igaponov/omnipaywirecard
-composer show "package-name"
-academe/omnipaywirecard
-composer show "package-name"
-teaandcode/omnipayworldpayxml
-composer show "package-name"
-catharsisjelly/omnipayworldpaycghosted
-composer show "package-name"
-omnipay/worldpay
-composer show "package-name"
-hiqdev/omnipayyandexkassa
-composer show "package-name"
-yandexmoney/omnipay
-composer show "package-name"
-hiqdev/omnipayyandexmoney
-composer show "package-name"
-omnipay/tpay
+composer show "netpay/omnipaynetpay"
+
+composer show "mfauveau/omnipaynmi"
+
+composer show "nocksapp/omnipaynocks"
+
+composer show "hiqdev/omnipayokpay"
+
+composer show "dilab/omnipayonepay"
+
+composer show "sudiptpa/omnipayopenpay"
+
+composer show "vdbelt/omnipayoppwa"
+
+composer show "paynl/omnipaypaynl"
+
+composer show "dilab/omnipaypayoo"
+
+composer show "mfauveau/omnipaypacnet"
+
+composer show "descubraomundo/omnipaypagarme"
+
+composer show "yasinkuyu/omnipayparatika"
+
+composer show "omnipay/payfast"
+
+composer show "omnipay/payflow"
+
+composer show "omnipay/paymentexpress"
+
+composer show "onlinesid/omnipaypaymentexpressa2a"
+
+composer show "pinguinjkeke/omnipaypaymentgateru"
+
+composer show "digitickets/omnipaypaymentsense"
+
+composer show "incube8/omnipaypaymentwall"
+
+composer show "omnipay/paypal"
+
+composer show "paypronl/omnipaypaypro"
+
+composer show "academe/omnipaypayone"
+
+composer show "dercoder/omnipaypaysafecard"
+
+composer show "povils/omnipaypaysera"
+
+composer show "semyonchetvertnyh/omnipaypaysera"
+
+composer show "dranes/omnipaypaysimple"
+
+composer show "inkedcurtis/omnipaypayssion"
+
+composer show "softcommerce/omnipaypaytrace"
+
+composer show "omnipay/payu"
+
+composer show "ubitransports/omnipaypayzen"
+
+composer show "hiqdev/omnipaypaxum"
+
+composer show "uskur/omnipaypelecard"
+
+composer show "omnipay/pin"
+
+composer show "phoenixg/omnipaypingpp"
+
+composer show "burnbright/omnipaypoli"
+
+composer show "dercoder/omnipayportmanat"
+
+composer show "yasinkuyu/omnipayposnet"
+
+composer show "bummzack/omnipaypostfinance"
+
+composer show "hiqdev/omnipayqiwi"
+
+composer show "kuangjy/omnipayqpay"
+
+composer show "nobrainerweb/omnipayquickpay"
+
+composer show "omnipay/rabobank"
+
+composer show "digitickets/omnipayrealex"
+
+composer show "nazka/sermepaomnipay"
+
+composer show "rentmoola/omnipayrentmoola"
+
+composer show "hiqdev/omnipayrobokassa"
+
+composer show "omnipay/sagepay"
+
+composer show "andrewnovikof/omnipaysberbank"
+
+composer show "justinbusschau/omnipaysecpay"
+
+composer show "omnipay/securepay"
+
+composer show "meebio/omnipaysecuretrading"
+
+composer show "fruitcakestudio/omnipaysisow"
+
+composer show "alfaproject/omnipayskrill"
+
+composer show "aimeoscom/omnipaysofort"
+
+composer show "gregoriohc/omnipayspreedly"
+
+composer show "transportersio/omnipaysquare"
+
+composer show "omnipay/stripe"
+
+composer show "omnipay/targetpay"
+
+composer show "lokielse/omnipayunionpay"
+
+composer show "lemonstand/omnipayvantiv"
+
+composer show "andylibrian/omnipayveritrans"
+
+composer show "vimeo/omnipayvindicia"
+
+composer show "delatbabel/omnipayvivapayments"
+
+composer show "dercoder/omnipaywebmoney"
+
+composer show "labs7in0/omnipaywechat"
+
+composer show "lokielse/omnipaywechatpay"
+
+composer show "collizo4sky/omnipaywepay"
+
+composer show "igaponov/omnipaywirecard"
+
+composer show "academe/omnipaywirecard"
+
+composer show "teaandcode/omnipayworldpayxml"
+
+composer show "catharsisjelly/omnipayworldpaycghosted"
+
+composer show "omnipay/worldpay"
+
+composer show "hiqdev/omnipayyandexkassa"
+
+composer show "yandexmoney/omnipay"
+
+composer show "hiqdev/omnipayyandexmoney"
+
+composer show "omnipay/tpay"
